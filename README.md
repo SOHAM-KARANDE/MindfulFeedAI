@@ -53,12 +53,14 @@ Help users regain focus and reduce algorithmic distraction by tracking what kind
 Download the full PDF report here → [`MindfulFeedAI_MiniProject_Report.pdf`](https://docs.google.com/document/d/1mYQiYXKsSac3qO2fl5Z7WQ1N71vxcWPP/edit?usp=sharing&ouid=117021661597120317485&rtpof=true&sd=true)
 
 ---
-
 ## 👨‍💻 Created By
 
 **Soham Karande**  
 Final Year B.Tech in AI & ML  
-[LinkedIn]([sohamkarande](https://www.linkedin.com/in/sohamkarande/)) 
+🔗 [LinkedIn](https://www.linkedin.com/in/soham-karande)  
+
+
+
 
 ---
 
