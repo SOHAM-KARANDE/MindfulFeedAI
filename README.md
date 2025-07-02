@@ -34,14 +34,14 @@ Help users regain focus and reduce algorithmic distraction by tracking what kind
 
 ## 📸 Sample Output
 
-![Pie Chart](screenshots/pie_chart.png)  
-![Bar Chart](screenshots/bar_chart.png)
+![Pie Chart](https://drive.google.com/file/d/17t3wk_FOxuDCd2DG8UWrNYzp2Xd2k5eZ/view?usp=sharing)  
+![Bar Chart](https://drive.google.com/file/d/17t3wk_FOxuDCd2DG8UWrNYzp2Xd2k5eZ/view?usp=sharing)
 
 ---
 
 ## 📂 How to Run
 
-1. Open the notebook: `MindfulFeedAI_Final.ipynb` in [Google Colab](https://colab.research.google.com/)
+1. Open the notebook: `MindfulFeedAI_Final.ipynb` in [Google Colab](https://colab.research.google.com/drive/15QFzGByGWCbDXr-rPv3AlkvI9euqIcZ9#scrollTo=IBvhsYx1tmaL)
 2. Install requirements and follow steps inside
 3. Use your own YouTube API key (free)
 4. Results are stored in `mindfulfeed_log.csv`
@@ -50,7 +50,7 @@ Help users regain focus and reduce algorithmic distraction by tracking what kind
 
 ## 📄 Report
 
-Download the full PDF report here → [`MindfulFeedAI_MiniProject_Report.pdf`](MindfulFeedAI_MiniProject_Report.pdf)
+Download the full PDF report here → [`MindfulFeedAI_MiniProject_Report.pdf`](https://docs.google.com/document/d/1mYQiYXKsSac3qO2fl5Z7WQ1N71vxcWPP/edit?usp=sharing&ouid=117021661597120317485&rtpof=true&sd=true)
 
 ---
 
@@ -58,7 +58,7 @@ Download the full PDF report here → [`MindfulFeedAI_MiniProject_Report.pdf`](M
 
 **Soham Karande**  
 Final Year B.Tech in AI & ML  
-[LinkedIn](https://www.linkedin.com/in/yourprofile) | [Portfolio](https://yourwebsite.com)
+[LinkedIn](www.linkedin.com/in/sohamkarande) 
 
 ---
 
