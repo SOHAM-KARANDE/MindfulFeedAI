@@ -58,7 +58,7 @@ Download the full PDF report here → [`MindfulFeedAI_MiniProject_Report.pdf`](h
 
 **Soham Karande**  
 Final Year B.Tech in AI & ML  
-[LinkedIn](www.linkedin.com/in/sohamkarande) 
+[LinkedIn]([sohamkarande](https://www.linkedin.com/in/sohamkarande/)) 
 
 ---
 
